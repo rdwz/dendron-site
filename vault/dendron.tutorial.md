@@ -12,7 +12,7 @@ nav_order: 1.1
 This walkthrough will help you get started with the basics of Dendron. Before you start, make sure you do the following:
 
 - Install [VS Code](https://code.visualstudio.com/download) or a VS Code compatible editor like [VSCodium](https://vscodium.com/)
-- Install [Dendron](https://link.dendron.so/vscode) from the code marketplace
+- Install Dendron from [Visual Studio Marketplace](https://link.dendron.so/vscode) or [Open VSX Registry](https://open-vsx.org/extension/dendron/dendron)
 
 ## Initialize your first workspace
 
